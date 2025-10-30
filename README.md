@@ -53,7 +53,6 @@ This will:
 ```bash
 python main.py --help                    # Show all options
 python main.py --port 8080               # Use specific port
-python main.py --with-buildings          # Also generate buildings map
 python main.py --with-analysis           # Also generate coverage analysis
 python main.py --quiet                   # Minimal output
 python main.py --no-browser              # Don't open browser
